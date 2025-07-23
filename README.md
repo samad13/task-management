@@ -23,8 +23,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/samad13/task-management.git
+cd task-management
 ```
 
 ### 2. Install dependencies
