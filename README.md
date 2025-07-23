@@ -48,7 +48,7 @@ Visit `http://localhost:5173` in your browser.
 ```bash
 npm run build
 ```
-
+Serve the output in dist/ with any static file server.
 
 ## 📂 Project Structure
 
