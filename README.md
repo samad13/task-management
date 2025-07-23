@@ -49,7 +49,6 @@ Visit `http://localhost:5173` in your browser.
 npm run build
 ```
 
-Serve the output in `dist/` with any static file server.
 
 ## 📂 Project Structure
 
@@ -115,10 +114,9 @@ The whole card is draggable for UX simplicity.
 
 ## 🧪 Running Tests
 
-If you add tests, run them with:
 
 ```bash
-npm run test
+npx vitest run 
 ```
 
 ## 🌐 Tech Stack
