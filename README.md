@@ -108,7 +108,7 @@ The whole card is draggable for UX simplicity.
 
 ## 📸 Screenshot
 
-![Task Management Dashboard](screenshots/Screenshot 2025-07-23 232103.png)
+![Task Management Dashboard](screenshots/Screenshot-2025-07-23-232103.png)
 
 *Replace `screenshot.png` with your actual screenshot file in the project root.*
 
