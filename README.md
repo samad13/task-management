@@ -34,3 +34,8 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
+
+### 2. Install dependencies
+
+npm install
+
