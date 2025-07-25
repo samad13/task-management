@@ -127,7 +127,7 @@ npx vitest run
 - **@dnd-kit** for drag-and-drop
 - **Framer Motion** for animations
 - **React Hook Form + Zod** for forms and validation
-- **Shadcn UI components** for a11y and UI patterns
+- **Shadcn UI components** for accessibility and UI patterns
 - **Sonner** for toast notifications
 
 ## 📜 License
